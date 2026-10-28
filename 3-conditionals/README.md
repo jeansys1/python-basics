@@ -70,5 +70,5 @@ python3 shipping_cost.py
 1. Variables: [Monthly Budget](../1-variables)
 2. Functions: [Trip Cost](../2-functions)
 3. **Conditionals: Shipping Cost** (this project)
-4. Loops: coming soon
+4. Loops: [Python Quiz](../4-loops)
 5. Exceptions: coming soon

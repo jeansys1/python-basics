@@ -85,5 +85,5 @@ python3 trip_cost.py
 1. Variables : [Monthly Budget](../1-variables)
 2. **Fonctions : Trip Cost** (ce projet)
 3. Conditions : [Shipping Cost](../3-conditionals)
-4. Boucles : à venir
+4. Boucles : [Python Quiz](../4-loops)
 5. Exceptions : à venir

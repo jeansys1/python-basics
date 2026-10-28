@@ -16,7 +16,8 @@ Je les ai réalisés en suivant le cours **CS50P** de Harvard (*CS50's Introduct
    Un calculateur de trajet en voiture pour le covoiturage : prix par personne, durée et CO2 émis.
 3. **[Conditions : Shipping Cost](3-conditionals)**
    Un calculateur de frais de livraison, comme sur un site e-commerce : prix selon le poids et la destination, livraison offerte et option express.
-4. **Boucles** : à venir
+4. **[Boucles : Python Quiz](4-loops)**
+   Un quiz de 10 questions sur les bases de Python, avec une barre de score et la possibilité de rejouer.
 5. **Exceptions** : à venir
 
 Chaque dossier a son propre README avec un exemple de ce qu'affiche le programme.
@@ -31,4 +32,4 @@ cd python-basics/1-variables
 python3 monthly_budget.py
 ```
 
-Pour lancer un autre projet, va dans son dossier (`2-functions`, `3-conditionals`) et lance son fichier `.py`.
+Pour lancer un autre projet, va dans son dossier (`2-functions`, `3-conditionals`, `4-loops`) et lance son fichier `.py`.
