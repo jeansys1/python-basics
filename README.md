@@ -16,7 +16,8 @@ I built them while following Harvard's **CS50P** course (*CS50's Introduction to
    A shipping cost calculator, like on an online shop: price by weight and destination, free shipping and express option.
 4. **[Loops: Python Quiz](4-loops)**
    A quiz with 10 questions about Python basics, with a score bar and the option to play again.
-5. **Exceptions**: coming soon
+5. **[Exceptions: Grade Book](5-exceptions)**
+   A grade book for a class: you type the grades, the program catches wrong input and asks again, then prints the average, the best and lowest grades and how many students passed.
 
 Each folder has its own README with an example of what the program prints.
 
@@ -30,4 +31,4 @@ cd python-basics/1-variables
 python3 monthly_budget.py
 ```
 
-To run another project, go into its folder (`2-functions`, `3-conditionals`, `4-loops`) and run its `.py` file.
+To run another project, go into its folder (`2-functions`, `3-conditionals`, `4-loops`, `5-exceptions`) and run its `.py` file.

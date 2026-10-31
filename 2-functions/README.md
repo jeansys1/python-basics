@@ -84,4 +84,4 @@ python3 trip_cost.py
 2. **Functions: Trip Cost** (this project)
 3. Conditionals: [Shipping Cost](../3-conditionals)
 4. Loops: [Python Quiz](../4-loops)
-5. Exceptions: coming soon
+5. Exceptions: [Grade Book](../5-exceptions)

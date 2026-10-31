@@ -79,4 +79,4 @@ python3 python_quiz.py
 2. Functions: [Trip Cost](../2-functions)
 3. Conditionals: [Shipping Cost](../3-conditionals)
 4. **Loops: Python Quiz** (this project)
-5. Exceptions: coming soon
+5. Exceptions: [Grade Book](../5-exceptions)

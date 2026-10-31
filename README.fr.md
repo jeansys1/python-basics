@@ -18,7 +18,8 @@ Je les ai réalisés en suivant le cours **CS50P** de Harvard (*CS50's Introduct
    Un calculateur de frais de livraison, comme sur un site e-commerce : prix selon le poids et la destination, livraison offerte et option express.
 4. **[Boucles : Python Quiz](4-loops)**
    Un quiz de 10 questions sur les bases de Python, avec une barre de score et la possibilité de rejouer.
-5. **Exceptions** : à venir
+5. **[Exceptions : Grade Book](5-exceptions)**
+   Un carnet de notes pour une classe : on tape les notes, le programme attrape les mauvaises saisies et redemande, puis affiche la moyenne, la meilleure et la plus basse note et le nombre d'élèves qui ont réussi.
 
 Chaque dossier a son propre README avec un exemple de ce qu'affiche le programme.
 
@@ -32,4 +33,4 @@ cd python-basics/1-variables
 python3 monthly_budget.py
 ```
 
-Pour lancer un autre projet, va dans son dossier (`2-functions`, `3-conditionals`, `4-loops`) et lance son fichier `.py`.
+Pour lancer un autre projet, va dans son dossier (`2-functions`, `3-conditionals`, `4-loops`, `5-exceptions`) et lance son fichier `.py`.

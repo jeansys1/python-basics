@@ -77,4 +77,4 @@ This project only uses variables. The next projects in the series will teach me 
 2. Functions: [Trip Cost](../2-functions)
 3. Conditionals: [Shipping Cost](../3-conditionals)
 4. Loops: [Python Quiz](../4-loops)
-5. Exceptions: coming soon
+5. Exceptions: [Grade Book](../5-exceptions)

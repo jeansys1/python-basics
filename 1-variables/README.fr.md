@@ -79,4 +79,4 @@ Ce projet utilise seulement des variables. Les prochains projets de la série m'
 2. Fonctions : [Trip Cost](../2-functions)
 3. Conditions : [Shipping Cost](../3-conditionals)
 4. Boucles : [Python Quiz](../4-loops)
-5. Exceptions : à venir
+5. Exceptions : [Grade Book](../5-exceptions)
